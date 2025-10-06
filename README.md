@@ -12,6 +12,19 @@ An arcade pack built in **Java (Swing/AWT)**. Launch a central Arcade window or 
 
 > Built as a student project. Clean code, simple structure, and easy to run in IntelliJ or Eclipse.
 
+## 🎮 Game Showcase
+
+<p align="center">
+  <img src="screenshots/arcade-menu.png" width="600"><br><br>
+
+  <img src="screenshots/flappybird.png" width="400">
+  <img src="screenshots/minesweeper.png" width="400">
+  <img src="screenshots/tetris.png" width="400">
+  <img src="screenshots/snake.png" width="400">
+  <img src="screenshots/fighter.png" width="400">
+  <img src="screenshots/chess.png" width="400">
+</p>
+
 ---
 
 ## 🗂️ Project Structure
