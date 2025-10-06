@@ -15,7 +15,7 @@ An arcade pack built in **Java (Swing/AWT)**. Launch a central Arcade window or 
 ## 🎮 Game Showcase
 
 <p align="center">
-  <img src="screenshots/arcade-menu.png" width="600"><br><br>
+  <img src="screenshots/Main.png" width="600"><br><br>
 
   <img src="screenshots/flappybird.png" width="400">
   <img src="screenshots/minesweeper.png" width="400">
