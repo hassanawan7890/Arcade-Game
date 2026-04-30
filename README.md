@@ -99,37 +99,7 @@ java -cp build ChessGame
 - Simple sounds (WAV) where supported
 - Separate launchers for each game
 
----
 
-## 📸 Screens
-Add screenshots in a `screens/` folder and reference them here:
-```md
-![Flappy](screens/flappy.png)
-![Snake](screens/snake.png)
-![Tetris](screens/tetris.png)
-```
-
----
-
-## 🛠️ Notes
-- This repo includes **Eclipse** files (`.project`, `.classpath`). For Git, you should ignore IDE build folders.
-- All assets are in `src/games/` and `src/HighScoreImages/`.
-
----
-
-## 📦 Suggested .gitignore
-```
-# Java / IDE
-/bin/
-/build/
-/out/
-/target/
-*.iml
-.idea/
-.classpath
-.project
-.settings/
-```
 
 ---
 
